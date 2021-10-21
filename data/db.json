@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Hit the gym",
+      "done": false
+    },
+    {
+      "title": "Pay bills",
+      "done": true,
+      "id": 2
+    },
+    {
+      "title": "coba",
+      "done": true,
+      "id": 3
+    },
+    {
+      "title": "coba",
+      "done": true,
+      "id": 6
+    },
+    {
+      "title": "cobaa3",
+      "done": false,
+      "id": 7
+    },
+    {
+      "title": "learn react",
+      "done": false,
+      "id": 8
+    }
+  ]
+}
